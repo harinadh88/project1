@@ -1,0 +1,15 @@
+{
+  "name": "project1",
+  "version": "1.0.0",
+  "description": "this is the project1 node in aws-linux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "harinadh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security"
+  }
+}
